@@ -3,5 +3,5 @@ Welcome to the Face Recognition System repository! This project implements a fac
 Introduction
 This project demonstrates how to build a face recognition system using Python. The system is capable of detecting faces in images and videos, and recognizing them based on a pre-trained model. It can be used for various applications such as security systems, attendance tracking, and more.
 Clone the repository:
-git clone https://github.com/arpiiitsingh/Face-Recognition.git
+git clone https://github.com/arpiiittt/Face-Recognition.git
 cd face-recognition
